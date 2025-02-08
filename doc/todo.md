@@ -3,6 +3,7 @@
 ## Phase 1: 프론트엔드 개발 (브라우저 단독 실행)
 
 ### 1. 프로젝트 초기 설정
+- [x] GitHub 리포지토리 생성
 - [ ] Create React App + TypeScript 프로젝트 생성
 - [ ] TailwindCSS 설정
 - [ ] ESLint, Prettier 설정
